@@ -15,8 +15,8 @@ For detailed information see the [SDF specification](https://github.com/Scientif
 
 ## Installation
 
-Download and extract the distribution and add the folder (that contains the +SDF
-folder) to the MATLAB path:
+Download and extract the [latest release](https://github.com/ScientificDataFormat/SDF-MATLAB/releases)
+and add the folder (that contains the *+SDF* folder) to the MATLAB path:
 
 ```
 >> addpath 'C:\libs\SDF-MATLAB'
@@ -26,9 +26,9 @@ folder) to the MATLAB path:
 
 To get started try the examples:
 
-- [demo.m](examples/demo.m) read and write *.sdf files
-- [interp_1d.m](examples/interp_1d.m) interpolate 1-d data
-- [interp_2d.m](examples/interp_2d.m) interpolate 1-d data
+- [demo.m](examples/demo.m) - read and write *.sdf files
+- [interp_1d.m](examples/interp_1d.m) - interpolate 1-d data
+- [interp_2d.m](examples/interp_2d.m) - interpolate 2-d data
 
 
 -----------------------------

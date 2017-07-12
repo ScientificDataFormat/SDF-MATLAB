@@ -1,0 +1,27 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.iobj
+*.ipdb
+
+# Simulink Code Generation
+slprj/
+
+# SDF files
+*.sdf
+
+# Build & test artefacts
+*.zip
+test-env/
+
+# MATLAB
+*.autosave

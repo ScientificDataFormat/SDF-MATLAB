@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src\sfun_ndtable.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\NDTable\src\Interpolation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\NDTable\src\Core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\sfun_ndtable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
